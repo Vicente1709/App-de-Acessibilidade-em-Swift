@@ -54,15 +54,6 @@ Para um app real, os próximos passos seriam:
   comunidade).
 - Considerar um serviço de roteirização dedicado a pedestres com dados de acessibilidade,
   já que o `MKDirections` é genérico.
-
-## Próximos passos sugeridos
-
-- Testes unitários para `AccessibleRouteService` (pontuação de rotas) e `MapViewModel`.
-- Tela de histórico completo de viagens (além do carrossel na Home).
-- Modo de navegação com instruções passo a passo (`route.steps`).
-- Feedback de acessibilidade colaborativo: permitir que o próprio usuário reporte
-  barreiras encontradas no caminho.
-
 ---
 
 ## Fase 2 — navegação em tempo real
